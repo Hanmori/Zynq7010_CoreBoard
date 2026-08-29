@@ -1,5 +1,8 @@
 # Zynq-7010 FPGA Core Board
 
+<img width="1216" height="907" alt="Snipaste_2026-08-29_14-55-02" src="https://github.com/user-attachments/assets/41da90da-f20a-43a1-ba39-ffa0cb4ffc92" />
+<img width="1210" height="891" alt="Snipaste_2026-08-29_14-55-12" src="https://github.com/user-attachments/assets/db1430b7-2a96-40dd-b5b5-560c17608218" />
+
 一个基于 Xilinx Zynq-7010 的紧凑型 FPGA + ARM 核心板开源项目。
 
 本项目完整开源硬件设计资料，包括 原理图、PCB、生产文件及 FPGA 工程，方便学习、二次开发和直接打样。
