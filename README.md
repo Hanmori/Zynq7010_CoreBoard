@@ -1,4 +1,4 @@
-#Zynq-7010 FPGA Core Board
+# Zynq-7010 FPGA Core Board
 
 一个基于 Xilinx Zynq-7010 的紧凑型 FPGA + ARM 核心板开源项目。
 
