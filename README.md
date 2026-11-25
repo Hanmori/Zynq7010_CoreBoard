@@ -1,11 +1,29 @@
 # Zynq-7010 FPGA Core Board
 
-<img width="1216" height="907" alt="Snipaste_2026-08-29_14-55-02" src="https://github.com/user-attachments/assets/41da90da-f20a-43a1-ba39-ffa0cb4ffc92" />
-<img width="1464" height="1068" alt="Snipaste_2026-10-22_14-38-16" src="https://github.com/user-attachments/assets/58055163-8df2-4cca-b412-578d679ed12b" />
-https://github.com/kingchangfeng/Zynq7010_CoreBoard/blob/main/PNG/TOP.png
 一个基于 Xilinx Zynq-7010 的紧凑型 FPGA + ARM 核心板开源项目。
 
 本项目完整开源硬件设计资料，包括原理图、PCB以及生产文件，方便学习和二次开发。
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0784c44d-b211-45e9-ae02-840f0d08e003"
+       alt="TOP" width="48%" />
+  <img src="https://github.com/user-attachments/assets/285a8c73-dde5-4cb9-b5ba-36f5b654344b"
+       alt="Bottom" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ca1cffaf-66ad-4e7d-9d79-fc69c93ea325"
+       alt="SI2" width="48%" />
+  <img src="https://github.com/user-attachments/assets/8ca92030-23db-4156-ba2b-30d8c25e6692"
+       alt="SI3" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d354787a-3f8c-4ea4-aff2-c5ba515d7751"
+       alt="PWR" width="48%" />
+  <img src="https://github.com/user-attachments/assets/0d15b902-3b5b-4cf0-8542-95091fdfc3b9"
+       alt="SI4" width="48%" />
+</div>
 
 ✨ Features
 
