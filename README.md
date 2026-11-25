@@ -11,20 +11,6 @@
        alt="Bottom" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ca1cffaf-66ad-4e7d-9d79-fc69c93ea325"
-       alt="SI2" width="48%" />
-  <img src="https://github.com/user-attachments/assets/8ca92030-23db-4156-ba2b-30d8c25e6692"
-       alt="SI3" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d354787a-3f8c-4ea4-aff2-c5ba515d7751"
-       alt="PWR" width="48%" />
-  <img src="https://github.com/user-attachments/assets/0d15b902-3b5b-4cf0-8542-95091fdfc3b9"
-       alt="SI4" width="48%" />
-</div>
-
 ✨ Features
 
 SoC: Xilinx Zynq-7010
